@@ -14,8 +14,8 @@
   <default remote="origin" revision="master" sync-j="8" sync-c="true" />
   
   <!-- Adding FireX Projects -->
-  <project name="firexapp" path="FireXStuff/firexapp" remote="firex" revision="main" groups="firex-group" />
-  <project name="firexkit" path="FireXStuff/firexkit" remote="firex" revision="main" groups="firex-group" />
+  <project name="firexapp" path="FireXStuff/firexapp" remote="firex" revision="master" groups="firex-group" />
+  <project name="firexkit" path="FireXStuff/firexkit" remote="firex" revision="master" groups="firex-group" />
 
 
 </manifest>
