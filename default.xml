@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Notice Section -->
+  <notice>
+    This is an example manifest file for a repo client. Modify as needed.
+  </notice>
+
+  <!-- Remote Definitions -->
+  <!-- <remote name="origin" fetch="https://example.com/repo" review="https://review.example.com" /> -->
+  <remote name="firex" fetch="git@github.com:FireXStuff" />
+
+  <!-- Default Settings -->
+  <default remote="origin" revision="master" sync-j="4" sync-c="true" />
+  
+  <!-- Adding FireX Projects -->
+  <project name="firexapp" path="FireXStuff/firexapp" remote="firex" revision="main" groups="firex-group" />
+  <project name="firexkit" path="FireXStuff/firexkit" remote="firex" revision="main" groups="firex-group" />
+
+
+</manifest>
