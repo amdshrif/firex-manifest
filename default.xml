@@ -17,11 +17,11 @@
   <project name="firex-keeper" path="src/firex-keeper" remote="firex" revision="master" groups="firex-group" />
   <project name="firex-flame-ui" path="src/firex-flame-ui" remote="firex" revision="master" groups="firex-group" />
   <project name="firex-flame" path="src/firex-flame" remote="firex" revision="master" groups="firex-group" />
-  <project name="firex-bundle-ci " path="src/firex-bundle-ci " remote="firex" revision="master" groups="firex-group" />
-  <project name="firex-bundle-foobar " path="src/firex-bundle-foobar " remote="firex" revision="master" groups="firex-group" />
+  <project name="firex-bundle-ci" path="src/firex-bundle-ci" remote="firex" revision="master" groups="firex-group" />
+  <project name="firex-bundle-foobar" path="src/firex-bundle-foobar" remote="firex" revision="master" groups="firex-group" />
   <project name="firex-blaze" path="src/firex-blaze" remote="firex" revision="master" groups="firex-group" />
-  <project name="firexbuilder " path="src/firexbuilder " remote="firex" revision="master" groups="firex-group" />
-  <project name="firex-alpine-build " path="src/firex-alpine-build " remote="firex" revision="master" groups="firex-group" />
+  <project name="firexbuilder" path="src/firexbuilder" remote="firex" revision="master" groups="firex-group" />
+  <project name="firex-alpine-build" path="src/firex-alpine-build" remote="firex" revision="master" groups="firex-group" />
   <project name="firex-docker" path="src/firex-docker" remote="firex" revision="master" groups="firex-group" />
   <project name="firex-recorder" path="src/firex-recorder" remote="firex" revision="master" groups="firex-group" />
   <project name="firex-elk" path="src/firex-elk" remote="firex" revision="master" groups="firex-group" />
